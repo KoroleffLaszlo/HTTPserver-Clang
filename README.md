@@ -3,9 +3,9 @@ This program runs a basic functionality of an HTTP server in C language, only im
 
 ##Included Files
 - httpserver.c:
-  server program
+  Server program
 - helper_funcs.a:
-  The .a file is a binary archive containing precompiled object code, representing functions declared in a header file. It serves as a static library that can be linked with other     programs at compile time, enhancing code modularity and reusability.
+  Binary archive containing precompiled object code, representing functions declared in ```helper_funcs.h``` header file. It serves as a static library that can be linked with other     programs at compile time, enhancing code modularity and reusability.
 - helper_funcs.h:
   Header file containing declaration of helper functions
 
